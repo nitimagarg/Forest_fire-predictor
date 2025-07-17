@@ -1,5 +1,6 @@
 flask>=2.3
 werkzeug<3.0
+python-dotenv
 numpy
 pandas
 pymongo[srv]
